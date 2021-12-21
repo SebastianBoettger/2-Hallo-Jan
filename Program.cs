@@ -10,8 +10,6 @@ namespace _2_HalloJan
     {
         static void Main(string[] args)
         {
-            Console.Write("Hallo Jan, mein Name ist Sebastian!");
-            Console.ReadKey();
         }
     }
 }
