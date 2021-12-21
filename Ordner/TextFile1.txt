@@ -1,0 +1,7 @@
+﻿Quellcode erstellen
+Kompilieren - Quellcode wird in eine ausführbare Datei übersetzt
+Ausführen
+Testen
+
+Iterationen
+# Tip: kleine Schritte machen
